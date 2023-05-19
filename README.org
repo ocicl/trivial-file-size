@@ -1,0 +1,9 @@
+* trivial-file-size
+
+Stat a file's size in Common Lisp.
+
+|---------+---------------------------------------------------------|
+| source  | git:https://github.com/ruricolist/trivial-file-size.git |
+| commit  | 77e98d9                                                 |
+| systems | trivial-file-size                                       |
+|---------+---------------------------------------------------------|
