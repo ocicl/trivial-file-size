@@ -4,6 +4,6 @@ Stat a file's size in Common Lisp.
 
 |---------+---------------------------------------------------------|
 | source  | git:https://github.com/ruricolist/trivial-file-size.git |
-| commit  | 341a502                                                 |
+| commit  | 60fd1bf                                                 |
 | systems | trivial-file-size                                       |
 |---------+---------------------------------------------------------|
